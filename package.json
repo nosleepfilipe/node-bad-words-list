@@ -1,0 +1,23 @@
+{
+  "name": "badwords",
+  "version": "1.0.0",
+  "description": "List of bad english words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nosleepfilipe/node-bad-words-list.git"
+  },
+  "keywords": [
+    "bad",
+    "words",
+    "bad",
+    "filter",
+    "list",
+    "word"
+  ],
+  "author": "nosleepfilipe mail@filipedias.me",
+  "license": "MIT"
+}

@@ -14,5 +14,5 @@ List of bad English words.
 
 # Install
 
-    npm install badwords
+    npm install node-badwords
 

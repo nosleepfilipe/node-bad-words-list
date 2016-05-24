@@ -7,7 +7,7 @@
                               |_|               |_|
 
 ```
-# badwords
+# node-badwords
 
 List of bad English words.
 

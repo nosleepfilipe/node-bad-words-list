@@ -10,3 +10,9 @@
 # badwords
 
 List of bad English words.
+
+
+# Install
+
+    npm install badwords
+

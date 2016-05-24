@@ -1,8 +1,8 @@
 {
-  "name": "badwords",
+  "name": "node-badwords",
   "version": "1.0.0",
   "description": "List of bad english words",
-  "main": "index.js",
+  "main": "array.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +18,6 @@
     "list",
     "word"
   ],
-  "author": "nosleepfilipe mail@filipedias.me",
+  "author": "nosleepfilipe <mail@filipedias.me> (http://www.filipedias.me)",
   "license": "MIT"
 }
